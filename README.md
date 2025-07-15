@@ -135,18 +135,3 @@
 
 ###
 
-
-
-###
-
-<div align="center">
-  <img src="C:\Users\milas\OneDrive\Pictures\659627.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="C:\Users\milas\OneDrive\Pictures\659627.png"  />
-</div>
-
-###
