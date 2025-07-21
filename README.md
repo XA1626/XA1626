@@ -126,33 +126,45 @@
 ![](https://github-readme-stats.vercel.app/api?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Xa1626&theme=neon&hide_border=false)<br/>
 
-### Most Used Languages
-<table>
-  <tr>
-    <td>Public Repositories</td>
-    <td>Private Repositories</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=10&exclude_repo=private-repo-name-1,private-repo-name-2" alt="Public Repo Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=10&exclude_repo=public-repo-name-1,public-repo-name-2" alt="Private Repo Languages" />
-    </td>
-  </tr>
-</table>
+<!--Most Used Languages-->
+<div align="center">
+  <h3>Most Used Languages</h3>
+  <table>
+    <tr>
+      <td>Public Repositories</td>
+      <td>Private Repositories</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=10"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Xa1626&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!--🏆 GitHub Trophies /✍️ Random Dev Quote-->
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Xa1626&theme=neon&no-frame=false&no-bg=false&margin-w=4"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Xa1626&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Xa1626&icon=10&color=0)](https://visitcount.itsvg.in)
+<!--🔝 Top Repo and Visitor Count-->
+<div align="center">
+  <h3>🔝 Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Xa1626&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Xa1626&icon=10&color=0" alt="visitor count"/>
+  </a>
+</div>
+
+
 
