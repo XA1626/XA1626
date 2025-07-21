@@ -1,8 +1,21 @@
 <br clear="both">
 
-<h2 align="center">💫 About Me:<br>I am currently working on Toothmate App.<br>I want to collaborate on a game.<br>I’m currently learning Godot.<br>Ask me things i might be able to help.<br>A fun fact about me i was a mechanic.</h2>
+<div align="center">
+  <h2>💫 About Me:</h2>
+  <p>🦷 I am currently working on Toothmate App.📱  <br>
+     🎮 I want to collaborate on a game.🤝<br>
+     🌟 I’m currently learning Godot. 🕹️ <br>
+     🧠 Ask me things I might be able to help with. 💬<br>
+     🚗 A fun fact about me: I was a mechanic. 🔧</p>
+<hr>
 
-###
+  <!-- GitHub Stats -->
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Xa1626&theme=neon&hide_border=false"/><br/>
+</div>
+
+<hr>
 
 <br clear="both">
 
@@ -96,11 +109,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
 </div>
 
-###
+<hr>
 
 <br clear="both">
 
 <div align="center">
+   <h3>🔗 Social Media</h3>
   <a href="https://www.linkedin.com/in/dexter-jones-93baa9301/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
@@ -122,17 +136,15 @@
   </a>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Xa1626&theme=neon&hide_border=false)<br/>
+<hr>
 
 <!--Most Used Languages-->
 <div align="center">
   <h3>Most Used Languages</h3>
   <table>
     <tr>
-      <td>Public Repositories</td>
-      <td>Private Repositories</td>
+      <td align="center">Public Repositories</td>
+      <td align="center">Private Repositories</td>
     </tr>
     <tr>
       <td>
@@ -145,6 +157,7 @@
   </table>
 </div>
 
+<hr>
 
 <!--🏆 GitHub Trophies /✍️ Random Dev Quote-->
 <div align="center">
@@ -154,6 +167,8 @@
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
+
+<hr>
 
 <!--🔝 Top Repo and Visitor Count-->
 <div align="center">
