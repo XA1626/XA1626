@@ -174,12 +174,14 @@
 <div align="center">
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=Xa1626&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
+<?div>
+  
   <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Xa1626&icon=10&color=0" alt="visitor count"/>
-  </a>
+  
+  <div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Xa1626&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </div>
+
 
 
 
