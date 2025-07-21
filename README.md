@@ -24,7 +24,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xa1626&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xa1626&theme=github_dark" />
 </div>
 
 <hr>
