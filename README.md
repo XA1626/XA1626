@@ -1,8 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hi+I'm+Dexter+Jones.;
-    I+study+Bachelor+of+Computer+and+Information+Sciences.;
-    I+am+double+majoring+in+Software+Development+%26+Cybersecurity." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hi+I'm+Dexter+Jones.;I+study+Bachelor+of+Computer+and+Information+Sciences.;I+am+double+majoring+in+Software+Development+%26+Cybersecurity." alt="Typing SVG" />
 </div>
 
 <hr>
