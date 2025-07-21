@@ -178,9 +178,8 @@
   
   <br/>
   
-  <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Xa1626&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=Xa1626&style=flat-square&color=blue" alt="Profile Views"/>
+
 
 
 
