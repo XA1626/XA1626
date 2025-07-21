@@ -1,4 +1,11 @@
 <br clear="both">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hi+I'm+Dexter+Jones.;
+    I+study+Bachelor+of+Computer+and+Information+Sciences.;
+    I+am+double+majoring+in+Software+Development+%26+Cybersecurity." alt="Typing SVG" />
+</div>
+
+<hr>
 
 <div align="center">
   <h2>💫 About Me:</h2>
@@ -13,6 +20,12 @@
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&count_private=true"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Xa1626&theme=neon&hide_border=false"/><br/>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xa1626&theme=tokyonight" />
 </div>
 
 <hr>
