@@ -125,7 +125,22 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Xa1626&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Most Used Languages
+<table>
+  <tr>
+    <td>Public Repositories</td>
+    <td>Private Repositories</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=10&exclude_repo=private-repo-name-1,private-repo-name-2" alt="Public Repo Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=10&exclude_repo=public-repo-name-1,public-repo-name-2" alt="Private Repo Languages" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Xa1626&theme=neon&no-frame=false&no-bg=false&margin-w=4)
