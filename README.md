@@ -160,10 +160,10 @@
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=20"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=10"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=30"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&layout=compact&langs_count=10"/>
       </td>
     </tr>
   </table>
