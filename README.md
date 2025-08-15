@@ -17,7 +17,7 @@
 
   <!-- GitHub Stats -->
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Xa1626&theme=neon&hide_border=false&include_all_commits=true&count_private=true"/><br/>-->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Xa1626&theme=neon&hide_border=false"/><br/>
 </div>
 
